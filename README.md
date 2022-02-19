@@ -43,4 +43,4 @@ A simple game made with Svelte / AppInventor2
 
 ## About
 
-- This is just school project, not intended for any copyright infringement.
+- This is just university project, not intended for any copyright infringement.

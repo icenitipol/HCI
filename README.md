@@ -1,8 +1,9 @@
 # Hocky Cats!
 A simple game made with Svelte / AppInventor2 
 
-[ลองเล่นได้ที่นี่](https://nitipolpat.com)
-[Download แอพลิเคชันสำหรับ Android](https://nitipolpat.com/hocky/)
+- [ลองเล่นได้ที่นี่](https://nitipolpat.com)
+
+- [Download แอพลิเคชันสำหรับ Android](https://nitipolpat.com/hocky/hockydev.apk)
 
 ## Screenshot
 

@@ -40,3 +40,7 @@ A simple game made with Svelte / AppInventor2
 - Open terminal in the HockyCats path
 
 - run the command `npm run build`
+
+## About
+
+- This is just school project, not intended for any copyright infringement.
